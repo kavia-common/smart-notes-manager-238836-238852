@@ -1,0 +1,4 @@
+{
+    "command": "flutter pub get",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-notes-manager-238836-238852/notes_frontend"
+}
